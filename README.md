@@ -11,3 +11,4 @@ Folling sections describe current excercies.
 
 - `ternaryOperator.cpp`: use ternary operator.
 - `singleton.cpp`: implements the singleton patern.
+- `pointerValue`: use pointer and "adress-of" and "dereference" operators.
