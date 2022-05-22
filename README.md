@@ -14,3 +14,4 @@ Folling sections describe current excercies.
 - `pointerValue`: use pointer and "adress-of" and "dereference" operators.
 - `reminder.cpp`: use the modulo operator % to parse a date in one-integer format.
 - `methodOverloading`: example of overloading method.
+- `defaultArgs.cpp`: example of a function with default arguments.
