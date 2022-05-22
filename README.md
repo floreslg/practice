@@ -15,3 +15,4 @@ Folling sections describe current excercies.
 - `reminder.cpp`: use the modulo operator % to parse a date in one-integer format.
 - `methodOverloading`: example of overloading method.
 - `defaultArgs.cpp`: example of a function with default arguments.
+- `stlIterator.cpp`: use stl iterator and prev and next methods.
