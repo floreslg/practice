@@ -16,3 +16,4 @@ Folling sections describe current excercies.
 - `methodOverloading`: example of overloading method.
 - `defaultArgs.cpp`: example of a function with default arguments.
 - `stlIterator.cpp`: use stl iterator and prev and next methods.
+- `integerStorage.cpp`: check integer size with common prefix.
