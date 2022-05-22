@@ -35,6 +35,7 @@ int main()
     assert(strBitSet::RIGHTSHIFT("11110011", 2) == "00111100");  
 }
 
+
 string strBitSet::AND(const string& strBin1, const string& strBin2)
 {
     bitset<8> bin1(strBin1);

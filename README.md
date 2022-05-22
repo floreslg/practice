@@ -18,3 +18,4 @@ Folling sections describe current excercies.
 - `stlIterator.cpp`: use stl iterator and prev and next methods.
 - `integerStorage.cpp`: check integer size with common prefix.
 - `structureCopy.cpp`: example of deep and shallow structure copy.
+- `bitwiseOperator.cpp`: use bitwise operator using string and bitsets.
