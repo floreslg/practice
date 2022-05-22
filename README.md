@@ -13,3 +13,4 @@ Folling sections describe current excercies.
 - `singleton.cpp`: implements the singleton patern.
 - `pointerValue`: use pointer and "adress-of" and "dereference" operators.
 - `reminder.cpp`: use the modulo operator % to parse a date in one-integer format.
+- `methodOverloading`: example of overloading method.
