@@ -99,7 +99,6 @@ VirtBase::~VirtBase()
 }
 
 
-
 VirtDerived::VirtDerived()
 {
     cout << "   VirtDerived constructor" << endl;
