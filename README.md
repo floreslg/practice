@@ -19,3 +19,4 @@ Folling sections describe current excercies.
 - `integerStorage.cpp`: check integer size with common prefix.
 - `structureCopy.cpp`: example of deep and shallow structure copy.
 - `bitwiseOperator.cpp`: use bitwise operator using string and bitsets.
+- `destructorOrder.cpp`: check order of constructor/destructor and virtual destructor.
