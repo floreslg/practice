@@ -10,3 +10,4 @@ Folling sections describe current excercies.
 ## C++ practice
 
 - `ternaryOperator.cpp`: use ternary operator.
+- `singleton.cpp`: implements the singleton patern.
