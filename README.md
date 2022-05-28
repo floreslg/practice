@@ -20,3 +20,4 @@ Folling sections describe current excercies.
 - `structureCopy.cpp`: example of deep and shallow structure copy.
 - `bitwiseOperator.cpp`: use bitwise operator using string and bitsets.
 - `destructorOrder.cpp`: check order of constructor/destructor and virtual destructor.
+- `solidPrinciples`: five principles of class design. They are a set of rules and best practices to follow while designing a class structure. 
